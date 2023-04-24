@@ -1,0 +1,11 @@
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\bin\Debug\Proyecto #35.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\bin\Debug\Proyecto #35.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\bin\Debug\Proyecto #35.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\obj\Debug\Proyecto #35.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\obj\Debug\Proyecto #35.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\obj\Debug\Proyecto__35.Form1.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\obj\Debug\Proyecto__35.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\obj\Debug\Proyecto #35.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\obj\Debug\Proyecto #35.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\obj\Debug\Proyecto #35.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #35\Proyecto #35\Proyecto #35\obj\Debug\Proyecto #35.pdb

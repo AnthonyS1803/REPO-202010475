@@ -1,0 +1,12 @@
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\bin\Debug\Proyecto 7.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\bin\Debug\Proyecto 7.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\bin\Debug\Proyecto 7.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto 7.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto_7.F_A.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto_7.F_B.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto_7.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto 7.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto 7.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto 7.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #7\Proyecto 7\Proyecto 7\obj\Debug\Proyecto 7.pdb

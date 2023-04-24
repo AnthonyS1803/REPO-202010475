@@ -1,0 +1,22 @@
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\bin\Debug\Proyecto 14.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\bin\Debug\Proyecto 14.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\bin\Debug\Proyecto 14.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\obj\Debug\Proyecto_14.Form1.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\obj\Debug\Proyecto_14.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #13\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\bin\Debug\Proyecto 14.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\bin\Debug\Proyecto 14.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\bin\Debug\Proyecto 14.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\obj\Debug\Proyecto_14.Form1.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\obj\Debug\Proyecto_14.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #14\Proyecto 14\Proyecto 14\obj\Debug\Proyecto 14.pdb

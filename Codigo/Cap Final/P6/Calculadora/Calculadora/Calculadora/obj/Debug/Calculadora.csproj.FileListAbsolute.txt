@@ -1,0 +1,11 @@
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.F_Calculadora.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Calculadora\Calculadora\Calculadora\obj\Debug\Calculadora.pdb

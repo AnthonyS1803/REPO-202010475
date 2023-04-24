@@ -1,0 +1,11 @@
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\bin\Debug\Proyecto 3.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\bin\Debug\Proyecto 3.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\bin\Debug\Proyecto 3.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\obj\Debug\Proyecto 3.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\obj\Debug\Proyecto 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\obj\Debug\Proyecto_3.Form1.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\obj\Debug\Proyecto_3.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\obj\Debug\Proyecto 3.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\obj\Debug\Proyecto 3.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\obj\Debug\Proyecto 3.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #3\Proyecto 3\Proyecto 3\obj\Debug\Proyecto 3.pdb

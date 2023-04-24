@@ -1,0 +1,12 @@
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\bin\Debug\proyecto 10.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\bin\Debug\proyecto 10.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\bin\Debug\proyecto 10.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto 10.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto 10.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto_10.Form1.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto_10.Form2.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto_10.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto 10.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto 10.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto 10.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #10\proyecto 10\proyecto 10\obj\Debug\proyecto 10.pdb

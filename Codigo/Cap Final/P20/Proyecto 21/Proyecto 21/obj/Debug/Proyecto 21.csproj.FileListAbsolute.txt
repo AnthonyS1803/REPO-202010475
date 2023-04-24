@@ -1,0 +1,11 @@
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\bin\Debug\Proyecto 21.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\bin\Debug\Proyecto 21.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\bin\Debug\Proyecto 21.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\obj\Debug\Proyecto 21.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\obj\Debug\Proyecto 21.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\obj\Debug\Proyecto_21.Form1.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\obj\Debug\Proyecto_21.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\obj\Debug\Proyecto 21.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\obj\Debug\Proyecto 21.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\obj\Debug\Proyecto 21.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #21\Proyecto 21\Proyecto 21\obj\Debug\Proyecto 21.pdb

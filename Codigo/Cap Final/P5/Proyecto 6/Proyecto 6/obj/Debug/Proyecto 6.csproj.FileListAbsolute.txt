@@ -1,0 +1,11 @@
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\obj\Debug\Proyecto 6.csproj.AssemblyReference.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\obj\Debug\Proyecto 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\obj\Debug\Proyecto_6.Form1.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\obj\Debug\Proyecto_6.Properties.Resources.resources
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\obj\Debug\Proyecto 6.csproj.GenerateResource.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\obj\Debug\Proyecto 6.csproj.CoreCompileInputs.cache
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\bin\Debug\Proyecto 6.exe.config
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\bin\Debug\Proyecto 6.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\bin\Debug\Proyecto 6.pdb
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\obj\Debug\Proyecto 6.exe
+C:\Users\luisj\Desktop\Proyectos en C#\Proyecto #6\Proyecto 6\Proyecto 6\obj\Debug\Proyecto 6.pdb
